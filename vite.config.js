@@ -13,6 +13,7 @@ export default defineConfig({
         addToCart: resolve(__dirname, "addToCart.html"),
         signin: resolve(__dirname, "signin.html"),
         signup: resolve(__dirname, "signup.html"),
+        about: resolve(__dirname, "about.html"),
 
         // Add more entry points for other HTML files as needed
       },
