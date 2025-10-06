@@ -1,0 +1,154 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "category": "Computers",
+    "brand": "ExampleBrand",
+    "price": 999.99,
+    "stock": 50,
+    "description": "Powerful laptop with a quad-core i5 processor, 8GB RAM, 256GB SSD, and a 14-inch FHD display.",
+    "image": "../images/lapi.png"
+  },
+  {
+    "id": 2,
+    "name": "Smartphone",
+    "category": "Mobiles",
+    "brand": "TechGadget",
+    "price": 499.99,
+    "stock": 100,
+    "image": "../images/iphone.png",
+    "description": "Feature-rich smartphone with a 6.2-inch screen, 12MP dual camera, 128GB storage, and a 4000mAh battery."
+  },
+  {
+    "id": 3,
+    "name": "Wireless Headphones",
+    "category": "Audio",
+    "brand": "SoundBeats",
+    "price": 149.99,
+    "stock": 30,
+    "image": "../images/headphone.png",
+    "description": "High-quality wireless headphones with over-ear design, 20 hours of battery life, and a sleek black color."
+  },
+  {
+    "id": 4,
+    "name": "Watches",
+    "category": "Wearables",
+    "brand": "FitTech",
+    "price": 199.99,
+    "stock": 20,
+    "image": "../images/watch.png",
+    "description": "Smartwatch with a 1.3-inch AMOLED display, water-resistant design, fitness tracking features, and a stylish silver color."
+  },
+  {
+    "id": 5,
+    "name": "Speakers",
+    "category": "Audio",
+    "brand": "SoundBeats",
+    "price": 149.99,
+    "stock": 30,
+    "image": "../images/speakers.png",
+    "description": "High-quality wireless headphones with over-ear design, 20 hours of battery life, and a sleek black color."
+  },
+  {
+    "id": 6,
+    "name": "Television",
+    "category": "Video",
+    "brand": "Samsung",
+    "price": 199.99,
+    "stock": 20,
+    "image": "../images/tv.png",
+    "description": "Smartwatch with a 1.3-inch AMOLED display, water-resistant design, fitness tracking features, and a stylish silver color."
+  },
+  {
+    "id": 7,
+    "name": "Washing Machine",
+    "category": "Home Appliances",
+    "brand": "Samsung",
+    "price": 399.99,
+    "stock": 30,
+    "image": "../images/washmachine.jpeg",
+    "description": "fully automatic washing machine with 7kg capacity, multiple wash programs, and energy-efficient operation."
+  },
+  {
+    "id": 8,
+    "name": "Air Conditioner",
+    "category": "Cooling",
+    "brand": "jhant",
+    "price": 199.99,
+    "stock": 70,
+    "image": "../images/ac.jpeg",
+    "description": "Smart AC with 1.5 ton  capacity, inverter technology, and eco-friendly refrigerant for efficient cooling."
+  },
+  {
+    "id": 9,
+    "name": "Oven",
+    "category": "Baking",
+    "brand": "LG",
+    "price": 149.99,
+    "stock": 40,
+    "image": "../images/oven.jpeg",
+    "description": " Convection oven  with  multiple cooking modes, digital controls, and a spacious interior for versatile baking."
+  },
+  {
+    "id": 10,
+    "name": "Refrigerator",
+    "category": "Cool storage",
+    "brand": "Whirlpool",
+    "price": 1149.99,
+    "stock": 20,
+    "image": "../images/fridge.png",
+    "description": " Double-door refrigerator with 300L capacity, frost-free technology, and energy-efficient performance."
+  },
+  {
+    "id": 11,
+    "name": "Geyser",
+    "category": "Heating",
+    "brand": "Havells",
+    "price": 120.99,
+    "stock": 50,
+    "image": "../images/Geyser.png",
+    "description": " Electric   geyser  with 25L capacity, rapid heating, and safety features for reliable hot water supply."
+  },
+  {
+    "id": 12,
+    "name": "Trademill",
+    "category": "Fitness",
+    "brand": "FitPro",
+    "price": 249.99,
+    "stock": 40,
+    "image": "../images/trademill.png",
+    "description": " Folding treadmill with adjustable speed, built-in workout programs, and a compact design for home fitness."
+  },
+  {
+    "id": 13,
+    "name": "Smart Doorbell",
+    "category": "Home Security",
+    "brand": "SafeHome",
+    "price": 179.99,
+    "stock": 45,
+    "image": "../images/doorbell.png",
+    "description": " Smart doorbell with HD video, two-way audio, motion detection, and mobile app integration for enhanced home security."
+  },
+  {
+    "id": 14,
+    "name": "Airpods",
+    "category": "Audio",
+    "brand": "Apple",
+    "price": 229.99,
+    "stock": 40,
+    "image": "../images/airpods.png",
+    "description": " Wireless earbuds with active noise cancellation, transparency mode, and seamless integration with Apple devices."
+  },
+  {
+    "id": 15,
+    "name": "Gaming Console",
+    "category": "Gaming",
+    "brand": "GameBox",
+    "price": 119.99,
+    "stock": 80,
+    "image": "../images/gconsole.png",
+    "description": " Next-gen gaming console with 4K resolution, immersive graphics, and a vast library of games.  "
+  }
+  
+
+]
