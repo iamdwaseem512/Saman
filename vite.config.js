@@ -11,6 +11,9 @@ export default defineConfig({
         contact: resolve(__dirname, "contact.html"),
         products: resolve(__dirname, "products.html"),
         addToCart: resolve(__dirname, "addToCart.html"),
+        signin: resolve(__dirname, "signin.html"),
+        signup: resolve(__dirname, "signup.html"),
+
         // Add more entry points for other HTML files as needed
       },
     },
